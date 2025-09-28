@@ -2,12 +2,12 @@
 Generate placeholder text in Engrish instead of the classic Lorem Ipsum. Ideal for simulated content that more closely resembles real, imperfect English texts, useful for testing design, layout, and web development.
 ## Features
 
-* Generate placeholder text in "Engrish" style
+* <strong>Generate placeholder text in "Engrish" style.</strong><br>
 Quickly insert placeholder content with intentionally broken English for design mockups or testing.
 
-* Flexible text length
+* <strong>Flexible text length</strong><br>
 
-* Works in any text context
+*<strong> Works in any text context</strong><br>
 
 ## Requirements
 
