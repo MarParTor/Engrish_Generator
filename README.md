@@ -1,16 +1,13 @@
-# engrish-generator README
-
-This is the README for your extension "engrish-generator". After writing up a brief description, we recommend including the following sections.
-
+# VSCode Engrish generator README
+Generate placeholder text in Engrish instead of the classic Lorem Ipsum. Ideal for simulated content that more closely resembles real, imperfect English texts, useful for testing design, layout, and web development.
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+* Generate placeholder text in "Engrish" style
+Quickly insert placeholder content with intentionally broken English for design mockups or testing.
 
-For example if there is an image subfolder under your extension project workspace:
+* Flexible text length
 
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+* Works in any text context
 
 ## Requirements
 
