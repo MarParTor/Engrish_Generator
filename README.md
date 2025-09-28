@@ -7,7 +7,7 @@ Quickly insert placeholder content with intentionally broken English for design 
 
 * <strong>Flexible text length</strong><br>
 
-*<strong> Works in any text context</strong><br>
+* <strong> Works in any text context</strong><br>
 
 ## Requirements
 
