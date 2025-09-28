@@ -8,7 +8,7 @@ VSCode extension that allows to generate placeholder text in "Engrish language" 
 
 * <strong>Generate placeholder text in "Engrish" style.</strong><br>
 
-Quickly insert placeholder content with intentionally broken English for design mockups or testing.
+    Quickly insert placeholder content with intentionally broken English for design mockups or testing.
 
 * <strong>Flexible text length</strong><br>
 
