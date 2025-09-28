@@ -2,6 +2,8 @@
 
 VSCode extension that allows to generate placeholder text in "Engrish language" instead of the classic Lorem Ipsum. Ideal for simulated content that more closely resembles real, imperfect English texts, useful for testing design, layout, and web development.
 
+[What's "Engrish"?](https://es.wikipedia.org/wiki/Engrish)
+
 ## Features
 
 * <strong>Generate placeholder text in "Engrish" style.</strong><br>
