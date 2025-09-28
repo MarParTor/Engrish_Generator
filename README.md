@@ -45,3 +45,7 @@ This extension works in any editable text file.
 
 Engrish-Generator initial release.
 
+### 1.0.1
+
+Optimization update
+
