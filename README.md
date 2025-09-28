@@ -1,68 +1,45 @@
-# VSCode Engrish generator README
-Generate placeholder text in Engrish instead of the classic Lorem Ipsum. Ideal for simulated content that more closely resembles real, imperfect English texts, useful for testing design, layout, and web development.
+# Engrish generator README
+
+VSCode extension that allows to generate placeholder text in "Engrish language" instead of the classic Lorem Ipsum. Ideal for simulated content that more closely resembles real, imperfect English texts, useful for testing design, layout, and web development.
+
 ## Features
 
 * <strong>Generate placeholder text in "Engrish" style.</strong><br>
+
 Quickly insert placeholder content with intentionally broken English for design mockups or testing.
 
 * <strong>Flexible text length</strong><br>
 
 * <strong> Works in any text context</strong><br>
 
-## Requirements
+## How to use
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+insert `engrish<number>`
 
-## Extension Settings
+| Command         | Output                          |
+|-----------------|---------------------------------|
+| `engrish`       | 50-word default Engrish text    |
+| `engrish5`      | 5-word text                     |
+| `engrish20`     | 20-word text                    |
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## Supported Languages
 
-For example:
+This extension works in any editable text file.
 
-This extension contributes the following settings:
+## Text Behavior
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+- Sentences start with capital letters and end with a period.
+- Each sentence is made up of 1–3 clauses.
 
-## Known Issues
+- Clauses follow a pattern: Subject + Verb + Complement.
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+- Sentences are joined with random connectors.
+
+- Vocabulary is randomized to avoid repetition.
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 1.0.0
 
-Initial release of ...
+Engrish-Generator initial release.
 
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
