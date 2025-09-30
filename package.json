@@ -3,7 +3,7 @@
   "displayName": "Engrish generator",
   "publisher": "MarcosPardo",
   "description": "Generate placeholder text in Engrish instead of the classic Lorem Ipsum. Ideal for simulated content that more closely resembles real, imperfect English texts, useful for testing design, layout, and web development.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/MarParTor/Engrish_Generator"},

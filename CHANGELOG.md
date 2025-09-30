@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "engrish-generator" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## [28/09/2025]
 
 - Initial release
+
+## [30/09/2025]
+
+- New words where added to the dictionary
